@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Confluence.Client", "src\Confluence.Client\Confluence.Client.csproj", "{86F67508-C875-46B7-AC45-BC9ADD21360A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD61A53D-5366-49CC-9664-81FB17064D1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Confluence.Client.ApplicationExample", "src\Confluence.Client.ApplicationExample\Confluence.Client.ApplicationExample.csproj", "{B1057B25-D38A-4BA1-BE2E-4B37FB557B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F67508-C875-46B7-AC45-BC9ADD21360A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F67508-C875-46B7-AC45-BC9ADD21360A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F67508-C875-46B7-AC45-BC9ADD21360A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F67508-C875-46B7-AC45-BC9ADD21360A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1057B25-D38A-4BA1-BE2E-4B37FB557B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1057B25-D38A-4BA1-BE2E-4B37FB557B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1057B25-D38A-4BA1-BE2E-4B37FB557B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1057B25-D38A-4BA1-BE2E-4B37FB557B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86F67508-C875-46B7-AC45-BC9ADD21360A} = {DD61A53D-5366-49CC-9664-81FB17064D1E}
+		{B1057B25-D38A-4BA1-BE2E-4B37FB557B9D} = {DD61A53D-5366-49CC-9664-81FB17064D1E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7B3C00-DE3C-491A-A550-1BBBFE86E4FC}
+	EndGlobalSection
+EndGlobal

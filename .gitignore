@@ -1,0 +1,10 @@
+
+src/Confluence\.Client/bin/
+
+src/Confluence\.Client/obj/
+
+src/Confluence\.Client\.ApplicationExample/bin/
+
+src/Confluence\.Client\.ApplicationExample/obj/
+
+\.vs/
